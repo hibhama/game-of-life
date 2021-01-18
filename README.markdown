@@ -41,3 +41,4 @@ exit
 test cont int 2 time
 test contd Int 2 time
 
+git status
